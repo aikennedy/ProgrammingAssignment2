@@ -1,3 +1,7 @@
+## Cousera - R Programming: Programming Assignment 2
+
+This is my submission of my coursework for the Coursera module rprog-006.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
